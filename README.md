@@ -83,7 +83,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 
 ## Featured Projects
 
-#### 🚀 [Shop Shinny (Maintance)](https://github.com/Azra-Hadi-Kusuma/ShopShinny)
+### 🚀 [Shop Shinny (Maintance)](https://github.com/Azra-Hadi-Kusuma/ShopShinny)
 This my custon shop but for now not ready srry :(
 
 
