@@ -1,12 +1,13 @@
 <div align="center">
 
-# Hi 🍕, I'm Yuyuhiei!
+# Hi 🍕, I'm Azra!
 
-**An Aspiring Developer from the University of City of Manila**
+**An Aspiring Developer from SMK PGRI 3 Malang**
+
+</div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Azra-Hadi-Kusuma&color=blue&style=flat&label=Profile+views)
 
-</div>
 
 • 🎯 I'm currently studying **Computer Science**
 
@@ -21,8 +22,8 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/yuyuhiei" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/yuyuhiei" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/Zabuzz.Dm" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
