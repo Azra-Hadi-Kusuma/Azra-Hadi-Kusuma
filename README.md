@@ -15,15 +15,15 @@
 
 • 💬 Ask me about **Programming, Gym, and Role Playing Video Games**
 
-• 🏫 How to reach me: **lumedalauvigne@gmail.com**
+• 🏫 How to reach me: **azrakusuma0@gmail.com**
 
-• ⚡ Fun fact: **I create contents and I love cats.**
+• ⚡ Fun fact: **I gamer and I love cats.**
 
 ## Connect with me:
 
 <p align="left">
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/Zabuzz.Dm" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://instagram.com/zabuzz.dm" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
