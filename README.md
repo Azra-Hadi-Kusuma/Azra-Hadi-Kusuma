@@ -1,125 +1,31 @@
-# Hi there, I'm Azra Hadi Kusuma! 👋
+# Hi 🍕, I'm Yuyuhiei!
 
-## About Me
-###
-I'm a passionate developer who loves creating innovative solutions and learning new technologies. Welcome to my GitHub profile where I showcase my journey in software development!
+## An Aspiring Developer from the University of City of Manila
 
-- I'm currently working on exciting projects that challenge my skills
-- I'm constantly learning and exploring new technologies
-- I'm looking to collaborate on open source projects
-- Ask me about programming, technology, or anything tech-related
-- How to reach me: azrakusuma0@gmail.com
-- Fun fact: I believe in writing clean, efficient code that makes a difference
+![Profile views](https://komarev.com/ghpvc/?username=Yuyuhiei&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🛠️ Technologies & Tools
-###
-#### Programming Languages
-<br clear="both">
+- 🛸 I’m currently studying **Computer Science**
+- 🌱 I’m currently learning **Full Stack Development**
+- 💬 Ask me about **Programming, Gym, and Role Playing Video Games**
+- 📬 How to reach me: [lumedalauvigne@gmail.com](mailto:lumedalauvigne@gmail.com)
+- 🔥 Fun fact: **I create contents and I love cats.**
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-</div>
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com)
 
-###
-
-#### Frameworks & Libraries
-<br clear="both">
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-</div>
-
-###
-
-#### Tools & Platforms
-<br clear="both">
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
-</div>
-
-###
-
-#### Databases
-<br clear="both">
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-## Featured Projects
-
-### 🚀 [Shop Shinny (Maintance)](https://github.com/Azra-Hadi-Kusuma/ShopShinny)
-This my custon shop but for now not ready srry :(
-
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azra-Hadi-Kusuma&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
-## 💭 Quote
-
-> "Semua punya kekurangan dan kelebihan, jangan memperburuk orang yang sedang sulit lebih baik beri dia motivasi atau bantuan meski sedikit tapi bagi dia itu sangat berharga." #JanganMenyerah
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azra-Hadi-Kusuma&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
-</div>
-
-<div align="center">
-  ⭐️ From <a href="https://github.com/Azra-Hadi-Kusuma">Azra Hadi Kusuma</a>
-</div>
-<br>
-<div align="center">
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:azrakusuma0@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+### Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30"/>
 </p>
-</div>
