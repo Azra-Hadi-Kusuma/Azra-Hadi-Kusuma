@@ -9,13 +9,13 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Azra-Hadi-Kusuma&color=blue&style=flat&label=Profile+views)
 
 
-• 🎯 I'm currently studying **Computer Science**
+• 🔭 I'm currently studying **Computer Science**
 
-• 🏆 I'm currently learning **Full Stack Development**
+• 🌱 I'm currently learning **Full Stack Development**
 
 • 💬 Ask me about **Programming, Gym, and Role Playing Video Games**
 
-• 🏫 How to reach me: **azrakusuma0@gmail.com**
+• 📫 How to reach me: **azrakusuma0@gmail.com**
 
 • ⚡ Fun fact: **I gamer and I love cats.**
 
