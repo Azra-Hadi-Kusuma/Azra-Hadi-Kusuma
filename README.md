@@ -4,9 +4,10 @@
 
 **An Aspiring Developer from the University of City of Manila**
 
+</div>
+
 ![Profile views](https://komarev.com/ghpvc/?username=yuyuhiei&color=blue&style=flat&label=Profile+views)
 
-</div>
 
 • 🎯 I'm currently studying **Computer Science**
 
