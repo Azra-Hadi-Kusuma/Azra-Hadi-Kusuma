@@ -6,7 +6,7 @@
 
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=yuyuhiei&color=blue&style=flat&label=Profile+views)
+https://komarev.com/ghpvc/?username=Azra-Hadi-Kusuma&color=blue&style=flat&label=Profile+views
 
 
 • 🎯 I'm currently studying **Computer Science**
