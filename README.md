@@ -11,7 +11,7 @@
 
 • 🔭 I'm currently studying **Computer Science**
 
-• 🌱 I'm currently learning **Full Stack Development**
+• 🌱 My dream is **Full Stack Development**
 
 • 💬 Ask me about **Programming, Gym, and Role Playing Video Games**
 
