@@ -13,11 +13,11 @@
 
 • 🌱 My dream is **Full Stack Development**
 
-• 💬 Ask me about **Programming, Gym, and Role Playing Video Games**
+• 💬 Ask me about **Programming, little sport, and Role Playing Video Games**
 
-• 📫 How to reach me: **azrakusuma0@gmail.com**
+• 📫 How to reach me **azrakusuma0@gmail.com**
 
-• ⚡ Fun fact: **I gamer and I love cats.**
+• ⚡ Fun fact **I gamer and I love cats.**
 
 ## Connect with me:
 
