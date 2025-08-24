@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 🍕, I'm Azra!
+# Hi, I'm Azra!
 
 **An Aspiring Developer from SMK PGRI 3 Malang**
 
