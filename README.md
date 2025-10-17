@@ -9,7 +9,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Azra-Hadi-Kusuma&color=blue&style=flat&label=Profile+views)
 
 
-• 🔭 I'm currently studying **Computer Science**
+• 🔭 I'm currently studying **Computer Science and Web Development**
 
 • 🌱 My dream is **Full Stack Development**
 
