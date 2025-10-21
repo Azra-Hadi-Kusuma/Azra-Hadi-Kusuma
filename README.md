@@ -1,113 +1,40 @@
 <div align="center">
 
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Azra!
 
-**Full Stack Developer from South Tangerang, Indonesia**
-
-```ascii
-╔════════════════════════════════════════════════╗
-║  Building digital solutions, one commit at a time  ║
-╚════════════════════════════════════════════════╝
-```
+**An Aspiring Developer from SMK PGRI 3 Malang**
 
 </div>
 
----
+![Profile views](https://komarev.com/ghpvc/?username=Azra-Hadi-Kusuma&color=blue&style=flat&label=Profile+views)
 
-### 👨‍💻 About Me
 
-• 🔭 Currently working on **Full Stack Web & Mobile Applications**
+• 🔭 I'm currently studying **Computer Science and Web Development**
 
-• 🌱 Learning **System Architecture & Cloud Technologies**
+• 🌱 My dream is **Full Stack Development**
 
-• 💬 Ask me about **JavaScript, React, Node.js, Python**
+• 💬 Ask me about **Programming, little sport, and Role Playing Video Games**
 
-• 📫 Reach me at **your.email@example.com**
+• 📫 How to reach me **azrakusuma0@gmail.com**
 
-• ⚡ Fun fact **I debug with coffee and good music**
+• ⚡ Fun fact **I gamer and I love cats.**
 
----
-
-### 🌐 Connect with me:
+## Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/yourhandle" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://instagram.com/yourhandle" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/zabuzz.dm" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
----
+## Languages and Tools:
 
-### 🛠️ Tech Stack:
-
-![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,tailwind,postgres,mongodb,docker,git,vscode,figma&perline=7)
-
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════╗
-║                                               ║
-║   📈 Repositories    : XX repos              ║
-║   ⭐ Stars Earned    : XX stars              ║
-║   🔥 Streak          : XX days               ║
-║   💻 Total Commits   : XXX commits           ║
-║                                               ║
-╚═══════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-### 🎯 Featured Projects:
-
-<table>
-<tr>
-<td width="50%">
-
-**🚀 Project Alpha**
-```yaml
-Stack: React, Node.js, PostgreSQL
-Status: 🟢 Production
-```
-[View →](https://github.com/YOUR_USERNAME/project-alpha)
-
-</td>
-<td width="50%">
-
-**💎 Project Beta**
-```yaml
-Stack: Next.js, MongoDB, Tailwind
-Status: 🟡 Development
-```
-[View →](https://github.com/YOUR_USERNAME/project-beta)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🐍 Contribution Graph:
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting!** ✨
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat&label=Profile+Views)](https://github.com/YOUR_USERNAME)
-
-</div>
+<p align="left">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+<a href="https://www.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
+</p>
