@@ -1,26 +1,113 @@
-
 <div align="center">
-  <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
-<img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
-  <h2> 🔥 My Tech Stacks! </h2><br>
-<br>
 
+# Hi, I'm [Your Name]! 👋
 
-![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,docker,dotnet,eclipse,express,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,gradle,gulp,heroku,html,idea,java,js,jquery,kotlin,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,ps,php,rust,svelte,tauri,electron,postgres,powershell,py,pytorch,qt,react,redux,regex,sass,sqlite,stackoverflow,svg,tailwind,tensorflow,twitter,ts,unity,unreal,vercel,visualstudio,vite,vscode,vue,webflow,webpack,wordpress&perline=15)
+**Full Stack Developer from South Tangerang, Indonesia**
 
-<img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
+```ascii
+╔════════════════════════════════════════════════╗
+║  Building digital solutions, one commit at a time  ║
+╚════════════════════════════════════════════════╝
+```
 
 </div>
 
+---
+
+### 👨‍💻 About Me
+
+• 🔭 Currently working on **Full Stack Web & Mobile Applications**
+
+• 🌱 Learning **System Architecture & Cloud Technologies**
+
+• 💬 Ask me about **JavaScript, React, Node.js, Python**
+
+• 📫 Reach me at **your.email@example.com**
+
+• ⚡ Fun fact **I debug with coffee and good music**
+
+---
+
+### 🌐 Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/yourhandle" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://instagram.com/yourhandle" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack:
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,tailwind,postgres,mongodb,docker,git,vscode,figma&perline=7)
+
+---
+
+### 📊 GitHub Stats:
+
 <div align="center">
 
+```
+╔═══════════════════════════════════════════════╗
+║                                               ║
+║   📈 Repositories    : XX repos              ║
+║   ⭐ Stars Earned    : XX stars              ║
+║   🔥 Streak          : XX days               ║
+║   💻 Total Commits   : XXX commits           ║
+║                                               ║
+╚═══════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+### 🎯 Featured Projects:
+
+<table>
+<tr>
+<td width="50%">
+
+**🚀 Project Alpha**
+```yaml
+Stack: React, Node.js, PostgreSQL
+Status: 🟢 Production
+```
+[View →](https://github.com/YOUR_USERNAME/project-alpha)
+
+</td>
+<td width="50%">
+
+**💎 Project Beta**
+```yaml
+Stack: Next.js, MongoDB, Tailwind
+Status: 🟡 Development
+```
+[View →](https://github.com/YOUR_USERNAME/project-beta)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🐍 Contribution Graph:
 
 <div align="center">
-
-<div style="display: flex; justify-content: center; align-items: center;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-light.svg" />
-    <img alt="github-snake" src="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting!** ✨
+
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat&label=Profile+Views)](https://github.com/YOUR_USERNAME)
+
 </div>
