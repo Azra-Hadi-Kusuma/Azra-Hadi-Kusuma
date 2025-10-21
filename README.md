@@ -64,7 +64,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></a>
   <a href="https://www.apachefriends.org/" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Xampp_logo.svg/512px-Xampp_logo.svg.png](https://www.apachefriends.org/images/xampp-logo-ac950edf.svg)" alt="XAMPP" width="40" height="40"/>
+    <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" height="40"/>
   </a>
   <a href="https://laragon.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" alt="Laragon" width="40" height="40"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Cloud Services" width="40" height="40"/></a>
