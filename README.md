@@ -90,6 +90,8 @@
 
 </div>
 
+<img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="divider"/>
+
 <div align="center">
 
   <img src="https://github.com/monkey531/assets/blob/main/274604631-59163c56-55ac-4813-b4aa-b57082e708e6.gif" width="100%">
