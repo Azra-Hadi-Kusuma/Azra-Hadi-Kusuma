@@ -81,7 +81,6 @@
 
 <div align="center">
 
-### 🐍 GitHub Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-light.svg" />
