@@ -21,18 +21,6 @@
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/zabuzz.dm" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Languages & Tools
 <p align="left">
   <!-- Web Basics -->
@@ -76,6 +64,60 @@
 </p>
 
 ---
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://open.spotify.com/user/Zabuzz">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Zabuzz&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">Connect with Me!</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/azra-hadi-kusuma" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Azrahadikusuma" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discordapp.com/users/zabuzz_ahk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://wa.me/6282221018499" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="t.me/ItsZabuzz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://tenor.com/nzaDYLGSAiM.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=7A00B2"  />
+</div>
+
+###
 
 <img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="divider"/>
 
