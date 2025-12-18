@@ -4,7 +4,7 @@
 <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
 
 # Hi, I'm Azra 👋  
-**Aspiring Backend & Full Stack Developer | SMK PGRI 3 Malang**
+**A Junior Development**
 
 </div>
 
@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently studying **Software Engineering (RPL)** with focus on **Web Development**  
+- 🔭 Currently studying on **Web Development**  
 - 🌱 Exploring **Backend Development** and aiming to become a **Full Stack Developer**  
 - 💬 Open to discussions about **Programming, Tech Trends, and Game Development**  
 - 📫 Reach me at: **azrakusuma0@gmail.com**  
