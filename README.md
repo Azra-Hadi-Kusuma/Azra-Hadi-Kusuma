@@ -12,15 +12,6 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently studying on **Web Development**  
-- 🌱 Exploring **Backend Development** and aiming to become a **Full Stack Developer**  
-- 💬 Open to discussions about **Programming, Tech Trends, and Game Development**  
-- 📫 Reach me at: **azrakusuma0@gmail.com**  
-- ⚡ Fun fact: **I’m a gamer who loves cats 🐱**  
-
----
-
 ## 🛠️ Languages & Tools
 <p align="left">
   <!-- Web Basics -->
