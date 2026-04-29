@@ -95,9 +95,12 @@ export default developer;
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-pied-zeta-84.vercel.app/api?username=Azra-Hadi-Kusuma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=8b949e&rank_icon=percentile&include_all_commits=true&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azra-Hadi-Kusuma&theme=github_dark" width="100%"/>
 
-<img height="165" src="https://github-readme-stats-pied-zeta-84.vercel.app/api/top-langs/?username=Azra-Hadi-Kusuma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=8b949e&langs_count=7" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azra-Hadi-Kusuma&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Azra-Hadi-Kusuma&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azra-Hadi-Kusuma&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Azra-Hadi-Kusuma&theme=github_dark&utcOffset=7" height="160"/>
 
 <br/>
 
