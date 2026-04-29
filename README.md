@@ -100,7 +100,7 @@ export default developer;
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=azrahadikusuma&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6EE7B7&fire=34D399&currStreakLabel=6EE7B7&sideNums=8b949e&dates=8b949e" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azra-hadi-kusuma&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6EE7B7&fire=34D399&currStreakLabel=6EE7B7&sideNums=8b949e&dates=8b949e" />
 
 </div>
 
