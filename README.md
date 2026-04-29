@@ -95,7 +95,10 @@ export default developer;
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Azra-Hadi-Kusuma/Azra-Hadi-Kusuma/main/github-metrics.svg" width="100%"/>
+<img height="165" src="https://github-readme-stats-pied-zeta-84.vercel.app/api?username=Azra-Hadi-Kusuma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=8b949e&rank_icon=percentile&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-pied-zeta-84.vercel.app/api/top-langs/?username=Azra-Hadi-Kusuma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=8b949e&langs_count=6" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=Azra-Hadi-Kusuma&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6EE7B7&fire=34D399&currStreakLabel=6EE7B7&sideNums=8b949e&dates=8b949e" />
 
