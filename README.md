@@ -24,7 +24,7 @@
 <!-- ABOUT -->
 <table border="0">
 <tr>
-<td width="100%">
+<td width="90%">
 
 ```ts
 // azra.config.ts
@@ -42,7 +42,7 @@ export default developer;
 ```
 
 </td>
-<td width="0%" align="center">
+<td width="10%" align="center">
   <img width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 </td>
 </tr>
