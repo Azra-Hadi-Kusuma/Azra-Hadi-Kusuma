@@ -52,9 +52,7 @@ export default developer;
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                              -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
 
 
 **→ Frontend**
@@ -91,9 +89,7 @@ export default developer;
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
 
 
 <img src="https://raw.githubusercontent.com/Azra-Hadi-Kusuma/Azra-Hadi-Kusuma/main/github-card.svg" width="100%"/>
@@ -110,9 +106,7 @@ export default developer;
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      HIDDEN GEM #1                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- HIDDEN GEM #1 -->
 
 <details>
 <summary><code>// dev.secrets — classified</code></summary>
@@ -143,9 +137,7 @@ export default developer;
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      HIDDEN GEM #2                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- HIDDEN GEM #2 -->
 
 <details>
 <summary><code>// personal.readme — if you're curious</code></summary>
@@ -155,12 +147,12 @@ export default developer;
 ```yaml
 # things not on my CV
 
-music_while_coding  : lo-fi / city pop / anything dark
-editor_font         : JetBrains Mono
+music_while_coding  : melodic EDM / nostalgic pop / feel-good classics
+editor_font         : Great Vibes
 tab_size            : 4  # non-negotiable
 dark_mode           : always. forever. no exceptions.
 comment_style       : sometimes poetic, usually sarcastic
-debugging_method    : rubber duck (her name is Gerald)
+debugging_method    : Marshmallow (her name is Soemone)
 biggest_time_sink   : perfecting things nobody will notice
 ```
 
@@ -174,9 +166,7 @@ biggest_time_sink   : perfecting things nobody will notice
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                         SOCIALS                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- SOCIALS -->
 
 
 <div align="center">
