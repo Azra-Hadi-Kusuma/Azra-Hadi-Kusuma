@@ -110,7 +110,6 @@ export default developer;
 <!--                  CONTRIBUTION GRAPH                           -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-### `// activity`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=azrahadikusuma&bg_color=0d1117&color=6EE7B7&line=34D399&point=ffffff&area=true&area_color=34D39920&hide_border=true&custom_title=contribution+graph" width="100%"/>
