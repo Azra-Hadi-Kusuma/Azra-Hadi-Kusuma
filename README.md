@@ -97,12 +97,6 @@ export default developer;
 
 <img src="https://raw.githubusercontent.com/Azra-Hadi-Kusuma/Azra-Hadi-Kusuma/main/github-metrics.svg" width="100%"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Azra-Hadi-Kusuma&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Azra-Hadi-Kusuma&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6EE7B7&fire=34D399&currStreakLabel=6EE7B7&sideNums=8b949e&dates=8b949e" />
 
 </div>
