@@ -53,7 +53,6 @@ export default developer;
 <!--                       TECH STACK                              -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-### `// stack`
 
 **→ Frontend**
 
@@ -93,7 +92,6 @@ export default developer;
 <!--                    GITHUB STATS                               -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-### `// git log --stat`
 
 <div align="center">
 
@@ -124,7 +122,6 @@ export default developer;
 <!--              SNAKE — set up via GitHub Actions                -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-### `// ./snake --watch`
 
 <div align="center">
 <picture>
@@ -204,7 +201,6 @@ biggest_time_sink   : perfecting things nobody will notice
 <!--                         SOCIALS                               -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-### `// connect --open`
 
 <div align="center">
 
