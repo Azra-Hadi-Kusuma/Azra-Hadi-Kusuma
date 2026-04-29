@@ -31,7 +31,7 @@
 const developer = {
   name      : "Azra Hadi Kusuma",
   alias     : "zabuzz",
-  role      : "Full Stack Developer",
+  role      : "Intermediate Full Stack Developer",
   based     : "Indonesia 🇮🇩",
   building  : ["web apps", "mobile UIs", "clean systems"],
   designing : true,
