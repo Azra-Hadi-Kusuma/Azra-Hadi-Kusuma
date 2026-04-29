@@ -13,7 +13,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=6EE7B7&center=true&vCenter=true&width=520&lines=full-stack+developer+%2F+designer;php+%7C+laravel+%7C+react+%7C+python;i+build+interfaces+that+don't+suck;currently+somewhere+between+caffeine+%26+git)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=6EE7B7&center=true&vCenter=true&width=520&lines=Intermediate-full-stack+developer;php+%7C+laravel+%7C+react+%7C+python;i+build+interfaces+that+don't+suck;currently+somewhere+between+caffeine+%26+git)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:0a0a0a&height=3&section=footer" width="100%"/>
 
