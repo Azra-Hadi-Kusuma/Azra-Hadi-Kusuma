@@ -1,133 +1,237 @@
+<!-- ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ -->
+<!--   replace every "azrahadikusuma" with your real GitHub ID   -->
+<!-- ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ -->
+
 <div align="center">
 
-<img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
-<img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=3&section=header" width="100%"/>
 
-# I'm Code :) 
-**A Junior Development**
+```
+ █████╗ ███████╗██████╗  █████╗
+██╔══██╗╚══███╔╝██╔══██╗██╔══██╗
+███████║  ███╔╝ ██████╔╝███████║
+██╔══██║ ███╔╝  ██╔══██╗██╔══██║
+██║  ██║███████╗██║  ██║██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=6EE7B7&center=true&vCenter=true&width=520&lines=full-stack+developer+%2F+designer;php+%7C+laravel+%7C+react+%7C+python;i+build+interfaces+that+don't+suck;currently+somewhere+between+caffeine+%26+git)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:0a0a0a&height=3&section=footer" width="100%"/>
 
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=Azra-Hadi-Kusuma&color=blue&style=flat&label=Profile+views)
+<br/>
 
----
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT                                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <!-- Web Basics -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="floating astronaut in space" />
 
-  <!-- Frameworks & Libraries -->
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+```ts
+// azra.config.ts
 
-  <!-- Databases & Backend -->
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
-  </a>
+const developer = {
+  name      : "Azra Hadi Kusuma",
+  alias     : "zabuzz",
+  role      : "Full Stack Developer",
+  based     : "Indonesia 🇮🇩",
+  building  : ["web apps", "mobile UIs", "clean systems"],
+  designing : true,
+  openTo    : ["collabs", "freelance", "cool ideas"],
+} as const;
 
-  <!-- Programming Languages -->
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+export default developer;
+```
 
-  <!-- Tools & IDEs -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></a>
-  <a href="https://www.apachefriends.org/" target="_blank">
-    <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" height="40"/>
-  </a>
-  <a href="https://laragon.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" alt="Laragon" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Cloud Services" width="40" height="40"/></a>
+<br clear="right"/>
 
-  <!-- Design -->
-  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/></a>
-</p>
+<br/>
 
----
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-###
+### `// stack`
 
-<br clear="both">
+**→ Frontend**
 
-<h2 align="center">Connect with Me!</h2>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-###
+**→ Backend & Database**
 
-<br clear="both">
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**→ Tooling & Environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+
+**→ Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+### `// git log --stat`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/azra-hadi-kusuma" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Azrahadikusuma" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discordapp.com/users/zabuzz_ahk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/6282221018499" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="t.me/ItsZabuzz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=azrahadikusuma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=8b949e&rank_icon=percentile&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrahadikusuma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=8b949e&langs_count=7" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azrahadikusuma&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6EE7B7&fire=34D399&currStreakLabel=6EE7B7&sideNums=8b949e&dates=8b949e" />
+
 </div>
 
-###
+<br/>
 
-<br clear="both">
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION GRAPH                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+### `// activity`
 
 <div align="center">
-  <img height="200" src="https://tenor.com/nzaDYLGSAiM.gif"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azrahadikusuma&bg_color=0d1117&color=6EE7B7&line=34D399&point=ffffff&area=true&area_color=34D39920&hide_border=true&custom_title=contribution+graph" width="100%"/>
 </div>
 
-###
+<br/>
 
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--              SNAKE — set up via GitHub Actions                -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-
-<img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="divider"/>
+### `// ./snake --watch`
 
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-light.svg" />
-  <img alt="github-snake" src="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azrahadikusuma/azrahadikusuma/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azrahadikusuma/azrahadikusuma/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/azrahadikusuma/azrahadikusuma/output/github-snake-dark.svg"/>
 </picture>
-
 </div>
-
-<img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="divider"/>
-
 
 <br/>
 
-![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      HIDDEN GEM #1                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><code>// dev.secrets — classified 🔒</code></summary>
 
 <br/>
 
-<a href="https://github.com/CelaDaniel" target="_blank">
-  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
-</a>
+<div align="center">
 
-<br clear="both">
+<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="380" alt="retro terminal blinking — classified vibes"/>
 
-<div>
-  <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=7A00B2"
-  width="100%"
-/>
 </div>
 
-###
+<br/>
+
+```diff
+# runtime confessions
+
++ things i'm proud of      → clean git history (sometimes)
++ things i pretend to do   → write tests first
+- things i actually do     → fix the bug, break three others
+- tabs vs spaces           → (redacted for legal reasons)
+
+! current status           → caffeine-driven development
+! latest debug session     → console.log("here"), 12 times
+```
+
+</details>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      HIDDEN GEM #2                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><code>// personal.readme — if you're curious</code></summary>
+
+<br/>
+
+```yaml
+# things not on my CV
+
+music_while_coding  : lo-fi / city pop / anything dark
+editor_font         : JetBrains Mono
+tab_size            : 4  # non-negotiable
+dark_mode           : always. forever. no exceptions.
+comment_style       : sometimes poetic, usually sarcastic
+debugging_method    : rubber duck (her name is Gerald)
+biggest_time_sink   : perfecting things nobody will notice
+```
+
+<div align="center">
+<br/>
+<img src="https://media.giphy.com/media/xT9IgIGhDfJGFcMKLC/giphy.gif" width="300" alt="glitchy retro grid" />
+<br/>
+</div>
+
+</details>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                         SOCIALS                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+### `// connect --open`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azra-hadi-kusuma)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Azrahadikusuma)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/zabuzz_ahk)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282221018499)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ItsZabuzz)
+
+<br/>
+
+![profile views](https://komarev.com/ghpvc/?username=azrahadikusuma&style=flat-square&color=6EE7B7&label=profile+views)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=2&section=footer" width="100%"/>
+
+<br/>
+
+<div align="center">
+  <sub>built with intention &nbsp;·&nbsp; not a template &nbsp;·&nbsp; <code>v2.0.0</code></sub>
+</div>
+
+<!--
+  you read the source.
+  either you're a developer, or you're lost.
+  both are valid.
+-->
