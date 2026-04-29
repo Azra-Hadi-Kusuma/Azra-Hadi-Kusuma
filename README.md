@@ -22,9 +22,9 @@
 <br/>
 
 <!-- ABOUT -->
-<table border="0">
+<table border="0" width="100%">
 <tr>
-<td width="90%">
+<td width="65%" valign="center">
 
 ```ts
 // azra.config.ts
@@ -42,12 +42,11 @@ export default developer;
 ```
 
 </td>
-<td width="10%" align="center">
+<td width="35%" align="center" valign="center">
   <img width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 </td>
 </tr>
 </table>
-
 
 <br clear="right"/>
 
