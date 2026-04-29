@@ -1,6 +1,4 @@
-<!-- ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ -->
-<!--   replace every "azrahadikusuma" with your real GitHub ID   -->
-<!-- ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ -->
+<!-- replace every "azrahadikusuma" with your real GitHub ID -->
 
 <div align="center">
 
@@ -23,15 +21,13 @@
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT                                 -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="floating astronaut in space" />
+<!-- ABOUT -->
+<table border="0">
+<tr>
+<td width="65%">
 
 ```ts
 // azra.config.ts
-
 const developer = {
   name      : "Azra Hadi Kusuma",
   alias     : "zabuzz",
@@ -44,6 +40,14 @@ const developer = {
 
 export default developer;
 ```
+
+</td>
+<td width="35%" align="center">
+  <img width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+</td>
+</tr>
+</table>
+
 
 <br clear="right"/>
 
@@ -93,16 +97,7 @@ export default developer;
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-pied-zeta-84.vercel.app/api?username=Azra-Hadi-Kusuma&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&bg_color=010409&title_color=58a6ff&icon_color=58a6ff&text_color=484f58&ring_color=58a6ff" />
-<img height="160" src="https://github-readme-stats-pied-zeta-84.vercel.app/api/top-langs/?username=Azra-Hadi-Kusuma&hide_border=true&layout=donut-vertical&bg_color=010409&title_color=58a6ff&text_color=484f58&langs_count=5" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Azra-Hadi-Kusuma&hide_border=true&background=010409&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&dates=484f58&sideLabels=484f58&currStreakNum=e6edf3&stroke=58a6ff10" />
-
-</div>
+<img src="https://raw.githubusercontent.com/Azra-Hadi-Kusuma/Azra-Hadi-Kusuma/main/github-card.svg" width="100%"/>
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
