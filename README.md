@@ -124,9 +124,9 @@ export default developer;
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azrahadikusuma/Azra-Hadi-Kusuma/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azrahadikusuma/Azra-Hadi-Kusuma/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/azrahadikusuma/Azra-Hadi-Kusuma/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azra-Hadi-Kusuma/Azra-Hadi-Kusuma/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azra-Hadi-Kusuma/Azra-Hadi-Kusuma/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Azra-Hadi-Kusuma/Azra-Hadi-Kusuma/output/github-snake-dark.svg"/>
 </picture>
 </div>
 
