@@ -95,9 +95,9 @@ export default developer;
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-pied-zeta-84.vercel.app/api?username=Azra-Hadi-Kusuma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=8b949e&rank_icon=percentile&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-project-v1.vercel.app/api?username=Azra-Hadi-Kusuma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=8b949e&rank_icon=percentile&include_all_commits=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats-pied-zeta-84.vercel.app/api/top-langs/?username=Azra-Hadi-Kusuma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=8b949e&langs_count=7" />
+<img height="165" src="https://github-readme-stats-project-v1.vercel.app/api/top-langs/?username=Azra-Hadi-Kusuma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=8b949e&langs_count=7" />
 
 <br/>
 
