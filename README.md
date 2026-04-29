@@ -112,7 +112,7 @@ export default developer;
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azrahadikusuma&bg_color=0d1117&color=6EE7B7&line=34D399&point=ffffff&area=true&area_color=34D39920&hide_border=true&custom_title=contribution+graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azra-Hadi-Kusuma&bg_color=0d1117&color=6EE7B7&line=34D399&point=ffffff&area=true&area_color=34D39920&hide_border=true&custom_title=contribution+graph" width="100%"/>
 </div>
 
 <br/>
@@ -124,9 +124,9 @@ export default developer;
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azrahadikusuma/azrahadikusuma/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azrahadikusuma/azrahadikusuma/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/azrahadikusuma/azrahadikusuma/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azrahadikusuma/Azra-Hadi-Kusuma/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azrahadikusuma/Azra-Hadi-Kusuma/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/azrahadikusuma/Azra-Hadi-Kusuma/output/github-snake-dark.svg"/>
 </picture>
 </div>
 
