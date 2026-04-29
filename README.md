@@ -95,12 +95,11 @@ export default developer;
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azra-Hadi-Kusuma&theme=github_dark" width="100%"/>
+<img src="https://raw.githubusercontent.com/Azra-Hadi-Kusuma/Azra-Hadi-Kusuma/main/github-metrics.svg" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azra-Hadi-Kusuma&theme=github_dark" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Azra-Hadi-Kusuma&theme=github_dark" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azra-Hadi-Kusuma&theme=github_dark" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Azra-Hadi-Kusuma&theme=github_dark&utcOffset=7" height="160"/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Azra-Hadi-Kusuma&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
 <br/>
 
