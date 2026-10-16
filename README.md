@@ -1,200 +1,113 @@
-<!-- replace every "azrahadikusuma" with your real GitHub ID -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=3&section=header" width="100%"/>
+# AZRA HADI KUSUMA
+### `zabuzz` &bull; Software Engineer & Creative Developer
 
-```
- █████╗ ███████╗██████╗  █████╗
-██╔══██╗╚══███╔╝██╔══██╗██╔══██╗
-███████║  ███╔╝ ██████╔╝███████║
-██╔══██║ ███╔╝  ██╔══██╗██╔══██║
-██║  ██║███████╗██║  ██║██║  ██║
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+responsive+systems+%26+interfaces;TypeScript+%7C+PHP%2FLaravel+%7C+Python+%7C+Go;Tuning+local+models+%26+agentic+workflows;Focusing+on+performance+and+clarity)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=6EE7B7&center=true&vCenter=true&width=520&lines=Intermediate+full-stack+developer;php+%7C+laravel+%7C+react+%7C+python;i+build+interfaces+that+don't+suck;currently+somewhere+between+caffeine+%26+git)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:0a0a0a&height=3&section=footer" width="100%"/>
+<br/>
 
 </div>
 
-<br/>
-
-<!-- ABOUT -->
-<table border="0" width="100%">
-<tr>
-<td width="65%" valign="center">
-
-```ts
-// azra.config.ts
-const developer = {
-  name      : "Azra Hadi Kusuma",
-  alias     : "zabuzz",
-  role      : "Intermediate Full Stack Developer",
-  based     : "Indonesia 🇮🇩",
-  building  : ["web apps", "mobile UIs", "clean systems"],
-  designing : true,
-  openTo    : ["collabs", "freelance", "cool ideas"],
-} as const;
-
-export default developer;
+```ascii
+ ┌────────────────────────────────────────────────────────────────────────┐
+ │  Identity     : Azra Hadi Kusuma (zabuzz)                              │
+ │  Role         : Full-Stack Engineer & System Builder                   │
+ │  Focus        : Clean architecture, low-latency APIs, resilient UIs    │
+ │  Location     : Indonesia (UTC+7)                                      │
+ │  Current Bias : High-density TUIs, local LLM orchestration, Next.js    │
+ └────────────────────────────────────────────────────────────────────────┘
 ```
 
-</td>
-<td width="35%" align="center" valign="center">
-  <img width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
-</td>
-</tr>
-</table>
+<br/>
 
-<br clear="right"/>
+### What I Work On
+
+- **Frontend & Interfaces:** Building tight, accessible web applications and terminals. Prefer semantic tokens, strict layouts, and snappy interactions over excessive motion.
+- **Backend & Tooling:** Designing predictable APIs and background services with Laravel, Python, and Node.js. Integrating SQLite, PostgreSQL, and Supabase with strict schemas.
+- **Agentic Systems:** Scripting custom MCP servers, AI agent tooling, and local routing gateways for reproducible workflows.
 
 <br/>
 
-<!-- TECH STACK -->
+### Stack & Ecosystem
 
-
-**→ Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**→ Backend & Database**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**→ Tooling & Environment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
-
-**→ Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+```
+Core Languages    TypeScript, JavaScript, PHP, Python, SQL, Bash
+Frontend Engine   React, Next.js, Tailwind CSS, Vite
+Backend / Data    Laravel, Fastify, Express, PostgreSQL, MySQL, Supabase, SQLite
+Environment       Windows Terminal, Neovim, PowerShell 7, Docker, Git
+Design & Protot   Figma, UI Architecture, Design Tokens
+```
 
 <br/>
 
-<!-- GITHUB STATS -->
-
-
-<img src="https://raw.githubusercontent.com/Azra-Hadi-Kusuma/Azra-Hadi-Kusuma/main/github-card.svg" width="100%"/>
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION GRAPH                           -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azra-Hadi-Kusuma&bg_color=0d1117&color=6EE7B7&line=34D399&point=ffffff&area=true&area_color=34D39920&hide_border=true&custom_title=contribution+graph" width="100%"/>
-</div>
-
-<br/>
-
-<!-- HIDDEN GEM #1 -->
+### Engineering Notes & Habits
 
 <details>
-<summary><code>// dev.secrets — classified</code></summary>
-
+<summary><b><code>runtime-profile.log</code></b> &mdash; <i>daily patterns & opinions</i></summary>
 <br/>
 
-<div align="center">
+```ini
+[preferences]
+editor_font        = JetBrains Mono Nerd Font
+shell_prompt       = Oh My Posh (Tokyo Night Storm)
+indent_style       = spaces (2 for frontend, 4 for backend)
+dark_mode          = persistent
 
-<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="380" alt="retro terminal blinking — classified vibes"/>
+[opinions]
+code_review        = readable > clever
+state_management   = push state down, avoid accidental global singletons
+dependencies       = audit before importing, write small helpers yourself
+logging            = structured JSON over unformatted strings
+```
 
-</div>
+</details>
 
+<details>
+<summary><b><code>debug-log.txt</code></b> &mdash; <i>lessons learned the hard way</i></summary>
 <br/>
 
 ```diff
-# runtime confessions
+- Assuming the third-party driver installer has an uninstaller
++ Always verify device MFT chains and Windows registry bindings manually
 
-+ things i'm proud of      → clean git history (sometimes)
-+ things i pretend to do   → write tests first
-- things i actually do     → fix the bug, break three others
-- tabs vs spaces           → (redacted for legal reasons)
+- Storing cache in memory without TTL limits
++ Keep local SQLite stores with deterministic cleanup jobs
 
-! current status           → caffeine-driven development
-! latest debug session     → console.log("here"), 12 times
+- Writing generic documentation with placeholder text
++ Document the actual reason why a workaround exists
 ```
 
 </details>
 
 <br/>
 
-<!-- HIDDEN GEM #2 -->
-
-<details>
-<summary><code>// personal.readme — if you're curious</code></summary>
-
-<br/>
-
-```yaml
-# things not on my CV
-
-music_while_coding  : melodic EDM / nostalgic pop / feel-good classics
-editor_font         : Great Vibes
-tab_size            : 4  # non-negotiable
-dark_mode           : always. forever. no exceptions.
-comment_style       : sometimes poetic, usually sarcastic
-debugging_method    : Marshmallow (her name is Soemone)
-biggest_time_sink   : perfecting things nobody will notice
-```
+### GitHub Analytics
 
 <div align="center">
-<br/>
-<img src="https://media.giphy.com/media/xT9IgIGhDfJGFcMKLC/giphy.gif" width="300" alt="glitchy retro grid" />
-<br/>
-</div>
-
-</details>
-
-<br/>
-
-<!-- SOCIALS -->
-
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azra-hadi-kusuma)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Azrahadikusuma)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/zabuzz_ahk)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282221018499)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ItsZabuzz)
-
-<br/>
-
-![profile views](https://komarev.com/ghpvc/?username=azrahadikusuma&style=flat-square&color=6EE7B7&label=profile+views)
-
+  <img src="https://raw.githubusercontent.com/Azra-Hadi-Kusuma/Azra-Hadi-Kusuma/main/github-card.svg" width="100%" alt="Azra's GitHub Metrics"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azra-Hadi-Kusuma&bg_color=0f172a&color=38bdf8&line=0284c7&point=f8fafc&area=true&area_color=0284c725&hide_border=true&custom_title=Activity+Timeline" width="100%" alt="Activity Timeline"/>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=2&section=footer" width="100%"/>
+### Connect & Collaborations
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/azra-hadi-kusuma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/Azrahadikusuma"><img src="https://img.shields.io/badge/X-0f172a?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://discordapp.com/users/zabuzz_ahk"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://t.me/ItsZabuzz"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://wa.me/6282221018499"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Azra-Hadi-Kusuma&style=flat-square&color=38bdf8&label=profile+views)
 
 <br/>
 
-<div align="center">
-  <sub>built with intention &nbsp;·&nbsp; not a template &nbsp;·&nbsp; <code>v2.0.0</code></sub>
-</div>
+<sub>Handcrafted with intention &bull; No boilerplate generators &bull; <code>Azra-Hadi-Kusuma</code></sub>
 
-<!--
-  you read the source.
-  either you're a developer, or you're lost.
-  both are valid.
--->
+</div>
