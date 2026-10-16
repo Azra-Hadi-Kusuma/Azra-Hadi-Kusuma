@@ -1,0 +1,124 @@
+<svg width="860" height="280" viewBox="0 0 860 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#050811" />
+      <stop offset="100%" stop-color="#020408" />
+    </linearGradient>
+
+    <!-- Border Glow Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8">
+        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#38bdf8" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.2">
+        <animate attributeName="stop-color" values="#818cf8;#38bdf8;#818cf8" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.8">
+        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#38bdf8" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <radialGradient id="meshGlow" cx="80%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Scanline Pattern -->
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#ffffff" stroke-opacity="0.015" stroke-width="1" />
+    </pattern>
+
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; }
+      .title { font-weight: 800; font-size: 26px; fill: #ffffff; letter-spacing: 2px; }
+      .badge-text { font-size: 11px; font-weight: 600; fill: #38bdf8; letter-spacing: 1px; }
+      .sub { font-size: 13px; fill: #94a3b8; }
+      .cyan { fill: #38bdf8; }
+      .indigo { fill: #818cf8; }
+      .green { fill: #34d399; }
+      .muted { fill: #475569; }
+      .white { fill: #f8fafc; }
+
+      @keyframes pulse {
+        0%, 100% { opacity: 0.9; }
+        50% { opacity: 0.3; }
+      }
+      .live-dot { animation: pulse 2s infinite ease-in-out; }
+      
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      .cursor { animation: blink 1s infinite; }
+
+      @keyframes streamData {
+        0% { stroke-dashoffset: 400; }
+        100% { stroke-dashoffset: 0; }
+      }
+      .stream-line {
+        stroke-dasharray: 40, 160;
+        animation: streamData 5s linear infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="1" y="1" width="858" height="278" rx="14" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.5" />
+  <rect x="1" y="1" width="858" height="278" rx="14" fill="url(#meshGlow)" />
+  <rect x="1" y="1" width="858" height="278" rx="14" fill="url(#scanlines)" />
+
+  <!-- Window Header Bar -->
+  <path d="M 1 15 C 1 7.268 7.268 1 15 1 L 845 1 C 852.732 1 859 7.268 859 15 L 859 42 L 1 42 Z" fill="#0f172a" fill-opacity="0.6" />
+  <line x1="1" y1="42" x2="859" y2="42" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Window Buttons -->
+  <circle cx="24" cy="21" r="5.5" fill="#ef4444" fill-opacity="0.8" />
+  <circle cx="42" cy="21" r="5.5" fill="#f59e0b" fill-opacity="0.8" />
+  <circle cx="60" cy="21" r="5.5" fill="#10b981" fill-opacity="0.8" />
+
+  <!-- Window Tab Name -->
+  <text x="430" y="26" text-anchor="middle" class="mono muted" font-size="12">azra@zabuzz-system:~ (architecture &amp; systems)</text>
+
+  <!-- Live Status Badge -->
+  <rect x="720" y="12" width="120" height="20" rx="10" fill="#0284c7" fill-opacity="0.15" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1"/>
+  <circle cx="734" cy="22" r="3.5" fill="#34d399" class="live-dot" />
+  <text x="746" y="26" class="mono" font-size="10.5" font-weight="600" fill="#38bdf8">ONLINE // 2026</text>
+
+  <!-- Content Section -->
+  <g transform="translate(36, 80)">
+    <!-- Brand / Title -->
+    <text x="0" y="24" class="mono title">AZRA HADI KUSUMA</text>
+    <text x="375" y="24" class="mono badge-text">[ZABUZZ]</text>
+
+    <!-- Subtitle -->
+    <text x="0" y="52" class="mono sub">Principal System Builder &bull; Full-Stack Architect &bull; UI/UX Craft</text>
+
+    <!-- Data Grid Box -->
+    <g transform="translate(0, 78)">
+      <rect width="788" height="88" rx="8" fill="#0f172a" fill-opacity="0.5" stroke="#1e293b" stroke-width="1" />
+      
+      <!-- Column 1 -->
+      <text x="24" y="30" class="mono muted" font-size="11">LOCATION</text>
+      <text x="24" y="54" class="mono white" font-size="13">Indonesia (UTC+7)</text>
+
+      <!-- Divider 1 -->
+      <line x1="200" y1="16" x2="200" y2="72" stroke="#1e293b" stroke-width="1" />
+
+      <!-- Column 2 -->
+      <text x="224" y="30" class="mono muted" font-size="11">CORE STACK</text>
+      <text x="224" y="54" class="mono cyan" font-size="13">TypeScript &bull; Next.js &bull; Laravel &bull; Python</text>
+
+      <!-- Divider 2 -->
+      <line x1="560" y1="16" x2="560" y2="72" stroke="#1e293b" stroke-width="1" />
+
+      <!-- Column 3 -->
+      <text x="584" y="30" class="mono muted" font-size="11">ENGINEERING FOCUS</text>
+      <text x="584" y="54" class="mono indigo" font-size="13">Resilient Systems &amp; Low-Latency</text>
+    </g>
+  </g>
+
+  <!-- Ambient Wave/Stream Line -->
+  <path d="M 36 262 Q 220 250, 430 262 T 824 262" stroke="#38bdf8" stroke-opacity="0.25" stroke-width="1.5" fill="none" class="stream-line" />
+</svg>

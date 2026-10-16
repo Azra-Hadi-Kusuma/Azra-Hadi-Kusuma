@@ -1,100 +1,84 @@
 <div align="center">
 
-# AZRA HADI KUSUMA
-### `zabuzz` &bull; Software Engineer & Creative Developer
+<!-- Custom Animated Terminal Header -->
+<img src="assets/header-terminal.svg" width="100%" alt="Azra Hadi Kusuma Terminal Header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+responsive+systems+%26+interfaces;TypeScript+%7C+PHP%2FLaravel+%7C+Python+%7C+Go;Tuning+local+models+%26+agentic+workflows;Focusing+on+performance+and+clarity)](https://git.io/typing-svg)
+<br/><br/>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Building+robust+full-stack+systems+%26+modern+UIs;TypeScript+%7C+Next.js+%7C+Laravel+%7C+Python;Architecting+developer+tooling+%26+agentic+workflows;Focusing+on+performance%2C+clarity%2C+and+craft)](https://git.io/typing-svg)
 
-</div>
-
-```ascii
- ┌────────────────────────────────────────────────────────────────────────┐
- │  Identity     : Azra Hadi Kusuma (zabuzz)                              │
- │  Role         : Full-Stack Engineer & System Builder                   │
- │  Focus        : Clean architecture, low-latency APIs, resilient UIs    │
- │  Location     : Indonesia (UTC+7)                                      │
- │  Current Bias : High-density TUIs, local LLM orchestration, Next.js    │
- └────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-### What I Work On
-
-- **Frontend & Interfaces:** Building tight, accessible web applications and terminals. Prefer semantic tokens, strict layouts, and snappy interactions over excessive motion.
-- **Backend & Tooling:** Designing predictable APIs and background services with Laravel, Python, and Node.js. Integrating SQLite, PostgreSQL, and Supabase with strict schemas.
-- **Agentic Systems:** Scripting custom MCP servers, AI agent tooling, and local routing gateways for reproducible workflows.
-
-<br/>
-
-### Stack & Ecosystem
-
-```
-Core Languages    TypeScript, JavaScript, PHP, Python, SQL, Bash
-Frontend Engine   React, Next.js, Tailwind CSS, Vite
-Backend / Data    Laravel, Fastify, Express, PostgreSQL, MySQL, Supabase, SQLite
-Environment       Windows Terminal, Neovim, PowerShell 7, Docker, Git
-Design & Protot   Figma, UI Architecture, Design Tokens
-```
-
-<br/>
-
-### Engineering Notes & Habits
-
-<details>
-<summary><b><code>runtime-profile.log</code></b> &mdash; <i>daily patterns & opinions</i></summary>
-<br/>
-
-```ini
-[preferences]
-editor_font        = JetBrains Mono Nerd Font
-shell_prompt       = Oh My Posh (Tokyo Night Storm)
-indent_style       = spaces (2 for frontend, 4 for backend)
-dark_mode          = persistent
-
-[opinions]
-code_review        = readable > clever
-state_management   = push state down, avoid accidental global singletons
-dependencies       = audit before importing, write small helpers yourself
-logging            = structured JSON over unformatted strings
-```
-
-</details>
-
-<details>
-<summary><b><code>debug-log.txt</code></b> &mdash; <i>lessons learned the hard way</i></summary>
-<br/>
-
-```diff
-- Assuming the third-party driver installer has an uninstaller
-+ Always verify device MFT chains and Windows registry bindings manually
-
-- Storing cache in memory without TTL limits
-+ Keep local SQLite stores with deterministic cleanup jobs
-
-- Writing generic documentation with placeholder text
-+ Document the actual reason why a workaround exists
-```
-
-</details>
-
-<br/>
-
-### GitHub Analytics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Azra-Hadi-Kusuma/Azra-Hadi-Kusuma/main/github-card.svg" width="100%" alt="Azra's GitHub Metrics"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azra-Hadi-Kusuma&bg_color=0f172a&color=38bdf8&line=0284c7&point=f8fafc&area=true&area_color=0284c725&hide_border=true&custom_title=Activity+Timeline" width="100%" alt="Activity Timeline"/>
 </div>
 
 <br/>
 
-### Connect & Collaborations
+<!-- ABOUT / SPOTLIGHT SECTION -->
+<table border="0" width="100%">
+<tr>
+<td width="60%" valign="top">
 
+### ✦ System Architecture &amp; Craft
+
+Saya membangun produk digital, interface web yang responsif, dan backend service yang tangguh. Menghindari komponen bloated dan fokus pada kesederhanaan arsitektur, kecepatan akses, dan user experience yang intuitif.
+
+```typescript
+// engineering-profile.ts
+export const profile = {
+  alias       : "zabuzz",
+  engineering : ["Full-Stack Architecture", "Custom TUI & CLI", "AI Agent Tooling"],
+  standards   : ["Strict Typing", "Zero-Template Layouts", "Performance-First"],
+  environment : "Windows Terminal + PowerShell 7 + Oh My Posh",
+  availability: "Open for High-Impact Projects & Freelance"
+} as const;
+```
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" style="border-radius: 12px; border: 1px solid #1e293b;" alt="Developer Workspace Animation" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- TECH MATRIX SECTION -->
 <div align="center">
+
+<img src="assets/stack-matrix.svg" width="100%" alt="Tech Matrix & Ecosystem" />
+
+</div>
+
+<br/>
+
+<!-- FEATURED ENGINEERING HIGHLIGHTS -->
+<table border="0" width="100%">
+<tr>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/LaVpS35PYjBKoYnam3/giphy.gif" width="320" style="border-radius: 12px; border: 1px solid #1e293b;" alt="Code Workflow Animation" />
+
+</td>
+<td width="62%" valign="top">
+
+### ✦ Core Engineering Principles
+
+- **Pragmatic Architecture:** Memilih stack yang tepat sesuai skala kebutuhan. Kode yang mudah dibaca dan dipelihara selalu lebih unggul daripada abstraksi berlebihan.
+- **Micro-Interactions & Polished UI:** Interface didesain dengan hierarki visual yang tegas, semantic color token, dan layout yang solid di semua ukuran layar.
+- **Local Tooling & Automation:** Mengotomatiskan alur kerja pengembangan dengan custom script, MCP tools, dan integrasi CLI terpadu.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- CONTACT & FOOTER -->
+<div align="center">
+
+### ✦ Connect &amp; Collaborate
+
+<br/>
 
 <a href="https://www.linkedin.com/in/azra-hadi-kusuma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/Azrahadikusuma"><img src="https://img.shields.io/badge/X-0f172a?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
@@ -104,10 +88,10 @@ logging            = structured JSON over unformatted strings
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Azra-Hadi-Kusuma&style=flat-square&color=38bdf8&label=profile+views)
+<img src="assets/terminal-footer.svg" width="100%" alt="Terminal Footer" />
 
 <br/>
 
-<sub>Handcrafted with intention &bull; No boilerplate generators &bull; <code>Azra-Hadi-Kusuma</code></sub>
+![Profile Views](https://komarev.com/ghpvc/?username=Azra-Hadi-Kusuma&style=flat-square&color=38bdf8&label=profile+views)
 
 </div>
